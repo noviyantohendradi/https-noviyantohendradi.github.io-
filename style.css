@@ -1,0 +1,14 @@
+body {
+  min-height: 4000px;
+}
+
+.jumbotron {
+  /* Theory: 1 rem = 10px */
+  padding-top: 5rem;
+  /* background-color: burlywood; */
+  background-color: grey;
+}
+
+section {
+  padding-top: 5rem;
+}
